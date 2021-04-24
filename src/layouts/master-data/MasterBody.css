@@ -1,0 +1,19 @@
+.row.back{
+    color: #ffffff;
+    overflow: hidden;
+    background-size: cover;
+    background: radial-gradient(46.41% 73.99% at 46.63% 48.05%, #20135C 0%, #140739 92.82%) center;
+    position: fixed;
+    width: 100.8vw;
+}
+
+.col-3.back{
+    padding-right: 0;
+    margin-right: 0;
+}
+
+.col-9.back{
+    height: 100vh;
+    padding-left: 2rem;
+    overflow-y: auto;
+}

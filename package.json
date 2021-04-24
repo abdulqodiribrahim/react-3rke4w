@@ -1,18 +1,59 @@
 {
-  "name": "react",
-  "version": "0.0.0",
+  "name": "evito_web",
+  "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "12.19.0",
+    "npm": "6.14.8"
+  },
   "dependencies": {
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "@ant-design/icons": "^4.0.0",
+    "@testing-library/dom": ">=7.21.4",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.3",
+    "antd": "^4.14.1",
+    "classnames": "^2.2.6",
+    "firebase": "^8.4.1",
+    "mdbreact": "^5.0.1",
+    "rc-resize-observer": "^1.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-draggable": "^4.4.3",
+    "react-icons": "^4.2.0",
+    "react-is": ">= 16.8.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-to-print": "^2.12.3",
+    "styled-components": "^5.2.1",
+    "typescript": "^3.2.1 || ^4",
+    "web-vitals": "^1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
   "devDependencies": {
-    "react-scripts": "latest"
+    "react-window": "^1.8.6"
   }
 }

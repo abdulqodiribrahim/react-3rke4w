@@ -1,0 +1,26 @@
+webpackHotUpdate("main",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/components/mastercontain/gudang/GudangContain.css":
+/*!******************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/mastercontain/gudang/GudangContain.css ***!
+  \******************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".btnCC{\r\n    text-align: center;\r\n    width: 6rem;\r\n    background: linear-gradient(90deg, #3887FE 0%, #20135C 100%) !important;\r\n    box-shadow: 0px 2px 4px rgba(85, 35, 221, 0.4);\r\n    border-radius: 20px;\r\n}\r\n.btnCC:hover{\r\n    color: #3887FE !important;\r\n}\r\n\r\n.titleOrder{\r\n    background: linear-gradient(113.99deg, #20135C 34.6%, #0F0B38 112.7%, #0F0B38 112.7%);\r\n    align-items: center;\r\n    align-content: center;\r\n    border-radius: 4px;\r\n    margin-top: 1rem;\r\n    margin-bottom: 2rem;\r\n    padding-top: 1rem;\r\n    padding-bottom: 0.4rem;\r\n    padding-left: 3rem;\r\n}\r\n\r\n.layoutBtnGC{\r\n    display: flex;\r\n    justify-content: flex-end;\r\n}\r\n\r\n.tableAntDiv{\r\n    overflow-y: auto;\r\n    overflow-x: auto;\r\n    height: 64vh;\r\n    align-items: center;\r\n    align-content: center;\r\n    padding-left: 0;\r\n    padding-right: 0;\r\n    margin-right: 0;\r\n    background: #FFFFFF;\r\n}\r\n\r\n.tableAnt{\r\n    text-align: right;\r\n    color: #0F0B38 !important;\r\n    background: #1E1156 !important;\r\n}", "",{"version":3,"sources":["webpack://src/components/mastercontain/gudang/GudangContain.css"],"names":[],"mappings":"AAAA;IACI,kBAAkB;IAClB,WAAW;IACX,uEAAuE;IACvE,8CAA8C;IAC9C,mBAAmB;AACvB;AACA;IACI,yBAAyB;AAC7B;;AAEA;IACI,qFAAqF;IACrF,mBAAmB;IACnB,qBAAqB;IACrB,kBAAkB;IAClB,gBAAgB;IAChB,mBAAmB;IACnB,iBAAiB;IACjB,sBAAsB;IACtB,kBAAkB;AACtB;;AAEA;IACI,aAAa;IACb,yBAAyB;AAC7B;;AAEA;IACI,gBAAgB;IAChB,gBAAgB;IAChB,YAAY;IACZ,mBAAmB;IACnB,qBAAqB;IACrB,eAAe;IACf,gBAAgB;IAChB,eAAe;IACf,mBAAmB;AACvB;;AAEA;IACI,iBAAiB;IACjB,yBAAyB;IACzB,8BAA8B;AAClC","sourcesContent":[".btnCC{\r\n    text-align: center;\r\n    width: 6rem;\r\n    background: linear-gradient(90deg, #3887FE 0%, #20135C 100%) !important;\r\n    box-shadow: 0px 2px 4px rgba(85, 35, 221, 0.4);\r\n    border-radius: 20px;\r\n}\r\n.btnCC:hover{\r\n    color: #3887FE !important;\r\n}\r\n\r\n.titleOrder{\r\n    background: linear-gradient(113.99deg, #20135C 34.6%, #0F0B38 112.7%, #0F0B38 112.7%);\r\n    align-items: center;\r\n    align-content: center;\r\n    border-radius: 4px;\r\n    margin-top: 1rem;\r\n    margin-bottom: 2rem;\r\n    padding-top: 1rem;\r\n    padding-bottom: 0.4rem;\r\n    padding-left: 3rem;\r\n}\r\n\r\n.layoutBtnGC{\r\n    display: flex;\r\n    justify-content: flex-end;\r\n}\r\n\r\n.tableAntDiv{\r\n    overflow-y: auto;\r\n    overflow-x: auto;\r\n    height: 64vh;\r\n    align-items: center;\r\n    align-content: center;\r\n    padding-left: 0;\r\n    padding-right: 0;\r\n    margin-right: 0;\r\n    background: #FFFFFF;\r\n}\r\n\r\n.tableAnt{\r\n    text-align: right;\r\n    color: #0F0B38 !important;\r\n    background: #1E1156 !important;\r\n}"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ })
+
+})
+//# sourceMappingURL=main.cf8bdf8ca334cec1134a.hot-update.js.map

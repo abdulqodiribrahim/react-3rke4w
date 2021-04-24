@@ -1,0 +1,90 @@
+.btnCC{
+    font-weight: bold;
+    text-align: center;
+    width: 7rem;
+    background: linear-gradient(90deg, #3887FE 0%, #20135C 100%) !important;
+    box-shadow: 0px 2px 4px rgba(85, 35, 221, 0.4);
+    border-radius: 20px;
+}
+.btnCC:hover{
+    color: #ffffff !important;
+    background: linear-gradient(90deg, #3887FE 100%, #20135C 0%)!important;
+}
+
+.titleContain{
+    width: 100%;
+    background: linear-gradient(113.99deg, #20135C 1006%, #0F0B38 100%, #0F0B38 100%);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    padding: 0.5rem 2rem;
+}
+
+.titleText{
+    color: #ffffff;
+    padding-top: 15px;
+}
+
+.layoutBtnGC{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ant-table-thead > tr > th {
+    color: #fafafa;
+    font-weight: 500;
+    text-align: center;
+    background: #20135C;
+    -webkit-transition: background 0.3s ease;
+    transition: background 0.3s ease;
+}
+
+.ant-table-row-custom {
+    background: #180C48;
+    text-align: center;
+    color: #FFFFFF;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.ant-table-tbody > tr.ant-table-row:hover > td {
+    background: #0F0B38;
+    color: #FFFFFF;
+}
+
+.ant-table-row-preview{
+    background: transparent;
+    text-align: center;
+    color: #000000;
+    font-size: 10px;
+    white-space: normal;
+    text-overflow: ellipsis;
+}
+
+.ant-table-small .ant-table-thead > tr > th{
+    background-color: #eeeeee;
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+}
+
+.ant-pagination-item{
+    background-color: #0F0B38;
+}
+
+.ant-pagination-prev button,
+.ant-pagination-next button{
+    color: #ffffff;
+}
+
+.btn.search{
+    padding-top: 2px;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.btn.search > img{
+    height: 30px;
+    width: 30px;
+}
